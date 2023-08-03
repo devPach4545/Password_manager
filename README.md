@@ -29,7 +29,7 @@ A simple password manager application built using Python and the Tkinter library
 ## Screenshots
 
 
-![Password Manager UI]![image](https://github.com/devPach4545/Password_manager/assets/117800801/185b3af0-b6c1-4355-b852-d0a56f9da672)
+![image](https://github.com/devPach4545/Password_manager/assets/117800801/185b3af0-b6c1-4355-b852-d0a56f9da672)
 
 ## Contributing
 
