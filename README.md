@@ -6,10 +6,9 @@ A simple password manager application built using Python and the Tkinter library
 
 ## Features
 
-- Password generation with customizable criteria (letters, symbols, numbers).
+- Password generation with letters, symbols, numbers.
 - Save and manage website credentials securely.
 - Prevents saving duplicate website credentials.
-- Visual indication of password strength.
 - Easy-to-use graphical user interface.
 - Passwords are copied to clipboard for easy use.
 
